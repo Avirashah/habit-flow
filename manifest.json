@@ -1,0 +1,18 @@
+{
+  "name": "HabitFlow - Daily Habit Tracker",
+  "short_name": "HabitFlow",
+  "description": "Track daily goals and weekly streaks.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4345/4345573.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
